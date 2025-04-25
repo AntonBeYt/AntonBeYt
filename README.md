@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">An aspiring webb developer from Gothenburg, Sweden</h3>
+<h3 align="center">I'm looking to learn and grow</h3>
 
-- 🌱 I’m currently learning **PHP, C#, JavaScript, HTML, CSS, Wordpress, node.js, React**
+- 🌱 I have practical experience with **PHP, JavaScript, TypeScript, React, Nextjs, Laravel, Inertiajs, Statamic, Wordpress, HTML, CSS, Tailwind**
 
 - 📫 How to reach me **here or hejjagheteranton@gmail.com**
 
